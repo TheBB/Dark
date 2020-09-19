@@ -67,9 +67,9 @@ far future of Winden in world A.
 
 Further, we see two modes of portable time travel in the show.  One is
 a machine, built by Tannhaus in world A and most frequently used by
-the middle-aged Jonas, the middle-aged and elderly Claudia, as well as
-the kids (Bartosz et al).  It is operated with a phone, but also needs
-a small amount of God particle mass to function.
+the middle-aged :ref:`Jonas <jonas>`, the middle-aged and elderly
+Claudia, as well as the kids (Bartosz et al).  It is operated with a
+phone, but also needs a small amount of God particle mass to function.
 
 The other mode of transport is an orb-like device whose origins are
 not known to us, but it is presumably more advanced than Tannhaus’
@@ -114,12 +114,12 @@ The artificial characters are:
 - Martha, Magnus and Mikkel, who are children of Ulrich.
 - Charlotte, who is the daughter of Noah and Elisabeth.
 - Elisabeth and Franziska, who are the children of Charlotte.
-- Jonas, who is the son of Mikkel.
+- :ref:`Jonas <jonas>`, who is the son of Mikkel.
 - :ref:`Silja <silja>`, who is the product of :ref:`Hannah <hannah>`’s time travel.
 - Agnes and Noah, who are the children of Silja.
 
 In particular, Martha, Jonas, the nameless man, Tronte, Ulrich, Mads,
-Magnus, Mikkel, Charlotte and Elissabeth are all descended from
+Magnus, Mikkel, Charlotte and Elisabeth are all descended from
 themselves, and could clearly not exist in a world without time
 travel.  A point could be made that Silja is organic, since she is the
 daughter of Hannah and Egon, who are both also organic.  In this case
@@ -142,11 +142,11 @@ In each world, a secret society forms: Sic Mundus Creatus Est (Sic
 Mundus for short) in world A, headed by the elder Jonas (taking on the
 persona of Adam) and Erit Lux in world B, headed by the elder Martha
 (taking on the persona of Eva, or Eve).  Most of the artificial
-characters in each world who do not meet their ends in other ways are
-agents of these societies.  Eva and Erit Lux works toward the goal of
-perpetuating the seemingly paradoxical cycle of cause and effect,
-whereas Adam and Sic Mundus seeks to destroy it and achieve a paradise
-of nothingness.
+characters in each world who do not meet their ends in other ways are,
+or they become, agents of these societies.  Eva and Erit Lux works
+toward the goal of perpetuating the seemingly paradoxical cycle of
+cause and effect, whereas Adam and Sic Mundus seeks to destroy it and
+achieve a “paradise” of nothingness.
 
 Understanding the motivation of the characters is key to understanding
 *Dark*.  The cause-and-effect cycle seems to be self-perpetuating, but
@@ -191,8 +191,11 @@ these, but when it happens it’s important to keep track of.
 People
 ======
 
+- :ref:`egon`
+- :ref:`jonas`
 - :ref:`hannah`
 - :ref:`silja`
+
 
 .. _Github: https://github.com/TheBB/Dark
 
@@ -202,5 +205,6 @@ People
    :caption: Contents:
 
    people/egon
+   people/jonas
    people/hannah
    people/silja
