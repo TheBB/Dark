@@ -1,5 +1,4 @@
 * A-world
-
 ** ??
 
 *** ??
@@ -558,7 +557,7 @@
   KATHARINA-1 have sex.  HANNAH-1 sees them and lies to the police,
   claiming she saw rape.  EGON arrests ULRICH-1.
 
-- 1x5: JONAS-Y arrives from 2019 with the broken MACHINE, and meets
+- 1x5: JONAS-11 arrives from 2019 with the broken MACHINE, and meets
   TANNHAUS in his shop, intending to learn time travel theory from the
   master himself.
 
@@ -577,7 +576,7 @@
 - 1x7: EGON meets JONAS-2 on the road to the hospital and gives him a
   lift.
 
-- 1x7: JONAS-Y intercepts JONAS-2 before he can try to recover
+- 1x7: JONAS-11 intercepts JONAS-2 before he can try to recover
   MIKKEL-2, warning him that he must now be allowed to live his life
   in the 80s in order for JONAS-2 to live.  Later, JONAS-2 finally
   decides not to interfere.
@@ -1032,7 +1031,7 @@
   effects and a peculiar red soil.  Around his neck a PENNY
   from 1986. It’s MADS-2.
 
-- 1x2: JONAS-Y arrives.
+- 1x2: JONAS-10 arrives from 2052.
 
 - 1x2: PETER is crying in his car, next to the BUNKER.
 
@@ -1045,7 +1044,7 @@
   rid of the BARRELS in secret.  Later that day they are loaded onto a
   truck.
 
-- 1x2: JONAS-Y checks in to the HOTEL.  He has a large amount of time
+- 1x2: JONAS-10 checks in to the HOTEL.  He has a large amount of time
   travel material with him, including the BOOK and the MACHINE, which
   is broken.
 
@@ -1069,7 +1068,7 @@
   younger self and NOAH-Y.
 
 - 1x4: JONAS-1 goes exploring in the cave, armed with the map from his
-  father.  He is unable to find the way.  JONAS-Y is watching.  When
+  father.  He is unable to find the way.  JONAS-10 is watching.  When
   he returns, a red string is tied around his bike handle.
 
 - 1x4: CHARLOTTE-2 discovers from the wildlife camera that PETER was
@@ -1097,7 +1096,7 @@
   home and gives CHARLOTTE-2 the POCKETWATCH, also telling her about
   NOAH-Y.  CHARLOTTE-2 recognizes it.
 
-- 1x4: JONAS-Y sneaks into JONAS-1’s bedroom and writes a hint on the
+- 1x4: JONAS-10 sneaks into JONAS-1’s bedroom and writes a hint on the
   map: “follow the signal”.
 
 *** November 7
@@ -1113,7 +1112,7 @@
   later.  BARTOSZ-1 wants JONAS-1 to accompany him, believing NOAH-Y
   to be a drug dealer.
 
-- 1x5: JONAS-Y leaves the HOTEL, intending to come back in a few days
+- 1x5: JONAS-10 leaves the HOTEL, intending to come back in a few days
   (although he will not).  He leaves behind many of his time travel
   effects on the walls of the room, but takes with him the broken
   MACHINE.  He also gives REGINA a package intended for JONAS-1, with
@@ -1122,11 +1121,11 @@
 - 1x5: ULRICH-1 ends his affair with HANNAH-1.  She does not take it
   well.
 
-- 1x5: JONAS-1 meets JONAS-Y at the graveyard.  JONAS-Y says that they
-  don’t know each other, but that JONAS-1’s father saved his life a
-  long time ago.  (By committing suicide.)  JONAS-Y offers more
-  cryptic advice, which will not be the first time.  Later, JONAS-Y
-  goes through the passage to 1986.
+- 1x5: JONAS-1 meets JONAS-10 at the graveyard.  JONAS-10 says that
+  they don’t know each other, but that JONAS-1’s father saved his life
+  a long time ago.  (By committing suicide.)  JONAS-Y offers more
+  cryptic advice, which will not be the first time.  Later, JONAS-10
+  goes through the passage to 1986, becoming JONAS-11.
 
 - 1x5: JONAS-1 goes to see MARTHA-1’s theater practice, and fails to
   join BARTOSZ-1 when meeting NOAH-Y.  JONAS-1 tell her that he was
@@ -1245,7 +1244,7 @@
   are perfect for each other, and for her never to believe anything
   else.
 
-- 1x9: REGINA, cleaning JONAS-Y’s hotel room, finds all his time
+- 1x9: REGINA, cleaning JONAS-10’s hotel room, finds all his time
   travel effects.
 
 - 1x9: At night, BARTOSZ-1 tells NOAH-Y that everything he predicted
@@ -1272,15 +1271,15 @@
 - 1x10: CHARLOTTE-2 finds a picture of ULRICH-2 in the newspaper
   from 1953.  PETER asks her to join him in the cabin to talk.
 
-- 1x10: NOAH-Y tells BARTOSZ-1 that JONAS-Y intends to close the
+- 1x10: NOAH-Y tells BARTOSZ-1 that JONAS-11 intends to close the
   passage, but CLAUDIA-Z has lied to him.  He also explains that there
   two groups fighting to control time travel (Sic Mundus and Erit Lux)
   and that he belongs to the “light” as opposed to the “dark”, and
   that CLAUDIA-Z belongs to the latter.  He shows BARTOSZ-1 the
   NOTEBOOK.  Later, NOAH-Y probably travels to 1920.
 
-- 1x10: JONAS-Y activates the MACHINE in the passage, closing it.
-  Lights flicker everywhere.  At the same time, JONAS-Y travels
+- 1x10: JONAS-11 activates the MACHINE in the passage, closing it.
+  Lights flicker everywhere.  At the same time, JONAS-11 travels
   to 2019.
 
 ** 2020
@@ -1538,7 +1537,7 @@
   the wormhole mass, CHARLOTTE-2 sees ELISABETH-Y in 2053 and travels
   there, becoming CHARLOTTE-3.
 
-- 2x8: JONAS-8 arrive at the Kahnwald house at the same time as
+- 2x8: JONAS-9 arrive at the Kahnwald house at the same time as
   MARTHA-3.  They kiss, but are interrupted by JONAS-Z, who has just
   traveled from 1921.  JONAS-Z shoots and kills MARTHA-3.  He then
   circles the date on the calendar.  The apocalypse allows a splitting
