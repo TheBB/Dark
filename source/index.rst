@@ -126,8 +126,7 @@ daughter of Hannah and Egon, who are both also organic.  In this case
 the same would apply to her children: Noah and Agnes, because their
 father Bartosz is also organic.  However it seems most convenient to
 classify Silja, Noah and Agnes as artificial characters because time
-travel was necessary for Silja’s parents to meet (as adults, at any
-rate).
+travel was necessary for Silja’s parents to meet. [#zomg]_
 
 Hannah, Egon, Bartosz, Jana and Peter are all organic characters who
 are parents of artificial children.
@@ -197,12 +196,16 @@ People
 - :ref:`silja`
 
 
+.. [#zomg] As adults, at any rate.
+
+
 .. _Github: https://github.com/TheBB/Dark
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :hidden:
 
    people/egon
    people/jonas

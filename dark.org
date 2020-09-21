@@ -592,7 +592,7 @@
 
 *** November 10
 
-- 1x8: JONAS-Y discusses time travel theory with TANNHAUS.  He has the
+- 1x8: JONAS-11 discusses time travel theory with TANNHAUS.  He has the
   BOOK with him.  Eventually he tells TANNHAUS that his theory is
   reality.  He shows him the MACHINE and asks to have it fixed.
   TANNHAUS asks him to leave.  TANNHAUS has an identical machine he
@@ -631,14 +631,14 @@
 - 1x9: CLAUDIA-1 recruits ALEKSANDER to weld shut the door in the
   cave.
 
-- 1x10: JONAS-Y returns to TANNHAUS, having traveled to 2019 to
+- 1x10: JONAS-13 returns to TANNHAUS, having traveled to 2019 to
   collect time travel fuel.  TANNHAUS shows him the MACHINE, as well
   as his own identical version, and that the PHONE (that he got from
   ULRICH-2 decades ago) can be used to control it.  He says that he
   would have been unable to complete the device unless he had seen the
-  finished version that JONAS-Y brought.  TANNHAUS can not explain why
-  he decided to help JONAS-Y.  JONAS-Y takes his repaired machine with
-  him, intending to close the passage.
+  finished version that JONAS-13 brought.  TANNHAUS can not explain
+  why he decided to help JONAS-13.  JONAS-13 takes his repaired
+  machine with him, intending to close the passage.
 
 - 1x10: HELGE-Z tries to explain to HELGE-Y that NOAH-Y is exploiting
   him for nefarious purposes.  HELGE-Y runs away.
@@ -657,13 +657,13 @@
 - 1x10: JONAS-4 gets to MIKKEL-2’s bed, but NOAH-Y is there.  HELGE-Y
   attacks him from behind and subdues him.  He wakes up in the BUNKER.
   JONAS-Y talks to him from the other side of the door, but refuses to
-  open it.  JONAS-Y explains that he is the elder JONAS, and that
+  open it.  JONAS-13 explains that he is the elder JONAS, and that
   JONAS-4 must remain in the bunker for JONAS-Y to become who he is.
 
 - 1x10: HELGE-Z causes a car accident with HELGE-Y.  HELGE-Z dies as
   an unidentified man in 1986.
 
-- 1x10: JONAS-Y activates the MACHINE in the passage, closing it.
+- 1x10: JONAS-13 activates the MACHINE in the passage, closing it.
   Lights flicker everywhere.  At the same time he travels to 2019.  A
   wormhole appears in the BUNKER, allowing HELGE-1 in 1953 and JONAS-4
   in 1986 to see each other.  When they touch, HELGE-1 is transported
@@ -1123,7 +1123,7 @@
 
 - 1x5: JONAS-1 meets JONAS-10 at the graveyard.  JONAS-10 says that
   they don’t know each other, but that JONAS-1’s father saved his life
-  a long time ago.  (By committing suicide.)  JONAS-Y offers more
+  a long time ago.  (By committing suicide.)  JONAS-10 offers more
   cryptic advice, which will not be the first time.  Later, JONAS-10
   goes through the passage to 1986, becoming JONAS-11.
 
@@ -1137,7 +1137,7 @@
 
 - 1x5: KATHARINA-1 confronts ULRICH-1 about his affair.  He denies it.
 
-- 1x5: JONAS-1 receives the package from JONAS-Y.  It contains a LAMP,
+- 1x5: JONAS-1 receives the package from JONAS-10.  It contains a LAMP,
   a GEIGER COUNTER, and the LETTER written by MIKKEL-2
 
 *** November 8
@@ -1148,7 +1148,7 @@
 
 - 1x6: REGINA receives word that she has breast cancer.
 
-- 1x6: JONAS-1 discovers the hint from JONAS-Y on the map.
+- 1x6: JONAS-1 discovers the hint from JONAS-10 on the map.
 
 - 1x6: ULRICH-1 confronts TRONTE about the night MADS disappeared, and
   TRONTE rejects that he has anything to do with MIKKEL-1’s
@@ -1250,7 +1250,7 @@
 - 1x9: At night, BARTOSZ-1 tells NOAH-Y that everything he predicted
   actually happened.  NOAH-Y recruits BARTOSZ-1 as his aide.
 
-- 1x9: JONAS-Y collects time travel fuel from the BARRELS in the
+- 1x9: JONAS-12 collects time travel fuel from the BARRELS in the
   truck.
 
 *** November 12
@@ -1271,16 +1271,16 @@
 - 1x10: CHARLOTTE-2 finds a picture of ULRICH-2 in the newspaper
   from 1953.  PETER asks her to join him in the cabin to talk.
 
-- 1x10: NOAH-Y tells BARTOSZ-1 that JONAS-11 intends to close the
+- 1x10: NOAH-Y tells BARTOSZ-1 that JONAS-13 intends to close the
   passage, but CLAUDIA-Z has lied to him.  He also explains that there
   two groups fighting to control time travel (Sic Mundus and Erit Lux)
   and that he belongs to the “light” as opposed to the “dark”, and
   that CLAUDIA-Z belongs to the latter.  He shows BARTOSZ-1 the
   NOTEBOOK.  Later, NOAH-Y probably travels to 1920.
 
-- 1x10: JONAS-11 activates the MACHINE in the passage, closing it.
-  Lights flicker everywhere.  At the same time, JONAS-11 travels
-  to 2019.
+- 1x10: JONAS-13 activates the MACHINE in the passage, closing it.
+  Lights flicker everywhere.  At the same time, JONAS-13 travels
+  to 2019 as JONAS-14.
 
 ** 2020
 
@@ -1297,7 +1297,7 @@
 - 2x1: ALEKSANDER is preparing for the decommissioning of the power
   plant on June 28.  The BARRELS will be stored in a concrete pit.
 
-- 2x1: JONAS-Y reveals himself to HANNAH-1.  He tried to destroy the
+- 2x1: JONAS-14 reveals himself to HANNAH-1.  He tried to destroy the
   passage, but succeeded only in closing it.  Now he is intending to
   “put an end to everything, once and for all”.
 
@@ -1325,16 +1325,16 @@
   sees the photo of Sic Mundus, realizing CHARLOTTE-2 is hiding things
   from him.
 
-- 2x2: JONAS-Y shows HANNAH-1 the MACHINE.  He wants to show her
+- 2x2: JONAS-14 shows HANNAH-1 the MACHINE.  He wants to show her
   MIKKEL-2’s secret.
 
 - 2x2: REGINA shows CLAUSEN and CHARLOTTE-2 the time travel effects
   found in JONAS-Y’s room and she also tells them about the package
   she delivered to JONAS-X.
 
-- 2x2: JONAS-Y and HANNAH-1 travel to 1987 using the MACHINE.
+- 2x2: JONAS-14 and HANNAH-1 travel to 1987 using the MACHINE.
   HANNAH-1 becomes HANNAH-2.  They probably come straight back,
-  HANNAH-2 becoming HANNAH-3.
+  HANNAH-2 becoming HANNAH-3 and JONAS-14 now JONAS-16.
 
 *** June 23
 
@@ -1353,8 +1353,8 @@
   claims that his birth name was Köhler.  They are going to see
   HANNAH-3 next.  (HANNAH-3 will miss her appointment.)
 
-- 2x4: CHARLOTTE-2 comes to HANNAH-3 and JONAS-Y.  They bring her up
-  to speed.  She realizes he was the man in the HOTEL.  JONAS-Y
+- 2x4: CHARLOTTE-2 comes to HANNAH-3 and JONAS-16.  They bring her up
+  to speed.  She realizes he was the man in the HOTEL.  JONAS-16
   identifies NOAH-Y in the photo from 1921 as “one of them” (Sic
   Mundus - The Travelers).
 
@@ -1363,14 +1363,14 @@
   80s on June 26 - two days from now, and that EGON also died on that
   day.
 
-- 2x4: CHARLOTTE-2 takes HANNAH-3 and JONAS-Y to the BUNKER, where she
-  and PETER have been collecting time travel evidence and information.
-  HANNAH-3 learns the location of ULRICH-2.  PETER says that CLAUDIA-Z
-  had instructed him and TRONTE on what to do, and knew exactly what
-  would happen when.  PETER still has the NOTEBOOK, with the last
-  pages still ripped out.  HANNAH-3 insists that they should tell
-  KATHARINA-1.  They do, but she acts hostile and refuses to join the
-  group, believing it to be a hoax.
+- 2x4: CHARLOTTE-2 takes HANNAH-3 and JONAS-16 to the BUNKER, where
+  she and PETER have been collecting time travel evidence and
+  information.  HANNAH-3 learns the location of ULRICH-2.  PETER says
+  that CLAUDIA-Z had instructed him and TRONTE on what to do, and knew
+  exactly what would happen when.  PETER still has the NOTEBOOK, with
+  the last pages still ripped out.  HANNAH-3 insists that they should
+  tell KATHARINA-1.  They do, but she acts hostile and refuses to join
+  the group, believing it to be a hoax.
 
 - 2x4: FRANZISKA-1, ELISABETH-1, MARTHA-1 and MAGNUS-1 find BARTOSZ-2
   in the caves.  He’s carrying the MACHINE, probably having just
@@ -1381,12 +1381,12 @@
 - 2x4: KATHARINA-1 goes to the school to find MIKKEL-2’s old classs
   photo from the 80s and breaks down.
 
-- 2x4: In the BUNKER, JONAS-Y says that everything will happen the way
+- 2x4: In the BUNKER, JONAS-16 says that everything will happen the way
   it always have, but that JONAS-Z said there is a loophole.
   (Although he hides the fact that JONAS-Z is ADAM).  He intends to
   stop JONAS-Z’s plans to start the last cycle.  CLAUDIA-Z tried to do
   it, but she became exactly what she was trying to fight.  (In
-  reality, she has found the solution.  It is JONAS-Y who is
+  reality, she has found the solution.  It is JONAS-16 who is
   perpetuating the cycle.)
 
 - 2x4: CLAUDIA-2 returns to 1987, becoming CLAUDIA-3.
@@ -1400,13 +1400,13 @@
   tonight.  Has he been at home at all since June 21?
 
 - 2x5: HANNAH-3 tells KATHARINA-1 about the MACHINE.  KATHARINA-1
-  wants to know how it works, but JONAS-Y has brought it with him.
+  wants to know how it works, but JONAS-16 has brought it with him.
   (Where is he?)  CLAUSEN shows up and asks about the drawing of
   JONAS-Y.  Both of them lie and say they haven’t seen him.  After
   KATHARINA-1 leaves, CLAUSEN pressures HANNAH-3 on her payments from
   ALEKSANDER.
 
-- 2x5: JONAS-Y goes to MARTHA-1’s room and puts the MEDALLION on her
+- 2x5: JONAS-16 goes to MARTHA-1’s room and puts the MEDALLION on her
   bed.
 
 - 2x5: FRANZISKA-1, ELISABETH-1, MARTHA-1 and MAGNUS-1 return to the
@@ -1414,7 +1414,7 @@
   BARTOSZ-2 operates the machine for them and they travel to 1987,
   becoming FRANZISKA-2, ELISABETH-2, MARTHA-2 and MAGNUS-2, BARTOSZ-3.
 
-- 2x5: JONAS-Y tells CHARLOTTE-2 that he doesn’t know who her parents
+- 2x5: JONAS-16 tells CHARLOTTE-2 that he doesn’t know who her parents
   are.  He thinks CLAUDIA-Z has been using himself, TANNHAUS, PETER
   and others.  He shows her the MACHINE that CLAUDIA-Z asked TANNHAUS
   to build.
@@ -1436,8 +1436,8 @@
 
 *** June 26
 
-- 2x7: JONAS-Y awakes.  HANNAH-3 is missing, having taken the MACHINE.
-  She has taken it to travel to 1954, becoming HANNAH-4.
+- 2x7: JONAS-16 awakes.  HANNAH-3 is missing, having taken the
+  MACHINE.  She has taken it to travel to 1954, becoming HANNAH-4.
 
 - 2x7: FRANZISKA-3, ELISABETH-3, MARTHA-3, MAGNUS-3 and BARTOSZ-4
   debate what to do.  MARTHA-3 has the MEDALLION.  They resolve to
@@ -1446,12 +1446,12 @@
 - 2x7: CLAUSEN confront ALEKSANDER with the evidence suggesting that
   he is his brother’s killer, and arrests him.
 
-- 2x7: MARTHA-3 goes to find HANNAH-3, but she is not there.  JONAS-Y
+- 2x7: MARTHA-3 goes to find HANNAH-3, but she is not there.  JONAS-16
   reveals his identity to her by talking about a glitch in the matrix.
   He asks whether she found the MEDALLION.
 
 - 2x7: Next, KATHARINA-1 comes to the Kahnwald house and breaks in
-  with an axe.  She distrusts JONAS-Y, and her mental state is
+  with an axe.  She distrusts JONAS-16, and her mental state is
   deteriorating.  KATHARINA-1 explains the deal with MIKKEL to
   MARTHA-3, that she is related to JONAS.  KATHARINA-1 wants the
   MACHINE, but it is gone.  MARTHA-3 says that they have a fully
@@ -1459,7 +1459,7 @@
 
 - 2x7: FRANZISKA-3, ELISABETH-3 and MAGNUS-3 have told CHARLOTTE-2 and
   PETER about their recent time travel and realize that they already
-  know.  MARTHA-3 calls MAGNUS-3 and tells him about JONAS-Y.
+  know.  MARTHA-3 calls MAGNUS-3 and tells him about JONAS-16.
   CHARLOTTE-2 recommends them to stay out of things.  FRANZISKA-3
   explodes in anger.
 
@@ -1470,12 +1470,12 @@
 
 *** June 27
 
-- 2x8: JONAS-Y pleads for MARTHA-3 to come with him before the
+- 2x8: JONAS-16 pleads for MARTHA-3 to come with him before the
   apocalypse happens.  MARTHA-3 says that they aren’t right together,
   and asks him to leave.  He has seen her die before (at the
   apocalypse, as his younger self), and will not do it again.  He
   forces her to the BUNKER, which is the only safe place, and locks
-  her in there.  JONAS-Y is losing hope that he can still change
+  her in there.  JONAS-16 is losing hope that he can still change
   things, but feels he must try.
 
 - 2x8: At the bridge, BARTOSZ-4 finds out from MAGNUS-3 and
@@ -1484,9 +1484,9 @@
   They go to find the MACHINE.
 
 - 2x8: KATHARINA-1 has taken the MACHINE to the Kahnwald house, trying
-  to find JONAS-Y (presumably, to figure out to operate it).  He’s not
-  there, but she finds the cave exploration gear instead.  When
-  JONAS-Y returns, he tells her the futility of changing the past
+  to find JONAS-16 (presumably, to figure out to operate it).  He’s
+  not there, but she finds the cave exploration gear instead.  When
+  JONAS-16 returns, he tells her the futility of changing the past
   (although, that’s what he’s trying to do).  He may not be able to
   prevent himself from becoming JONAS-Z, but he may still try to stop
   him now.
@@ -1499,9 +1499,9 @@
 
 - 2x8: In 1987, JONAS-8 reopens the passage, causing a light effect in
   the BUNKER that MARTHA-3 sees, flickering lights and dead birds.
-  JONAS-Y tells KATHARINA-1 that the passage is open.  KATHARINA-1
+  JONAS-16 tells KATHARINA-1 that the passage is open.  KATHARINA-1
   takes the cave exploration gear, intending to use the passage to
-  find MIKKEL-2.  She leaves the MACHINE with JONAS-Y, and later goes
+  find MIKKEL-2.  She leaves the MACHINE with JONAS-16, and later goes
   through the passage to 1987, becoming KATHARINA-2.
 
 - 2x8: When PETER and ELISABETH-3 arrive at the BUNKER, MARTHA-3 is
@@ -1518,8 +1518,8 @@
   so that they may escape the apocalypse.  JONAS-9 wants to find his
   mother, and MARTHA-3.
 
-- 2x8: At the Kahnwald house, NOAH-2 walks in on JONAS-Y, having
-  traveled from 1921.  He expects them to be friends, and for JONAS-Y
+- 2x8: At the Kahnwald house, NOAH-2 walks in on JONAS-16, having
+  traveled from 1921.  He expects them to be friends, and for JONAS-16
   to eventually become JONAS-Z.  He has a NOTE from MARTHA.  (Is this
   a fabrication?  We haven’t seen MARTHA write anything like this.)
   NOAH-2 tasks him to save MARTHA, FRANZISKA-3, MAGNUS-3, and later

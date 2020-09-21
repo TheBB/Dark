@@ -114,10 +114,10 @@ Jonas\ :sub:`4`
 After a brief and cryptic conversation with young Charlotte\ :sub:`2`,
 Jonas makes his way to Mikkel\ :sub:`2`’s bed in the hospital, but is
 abducted by Noah and Helge\ :sub:`3`.  They take him to the bunker,
-where the elder Jonas\ :sub:`11` explains who he really is, and why he
-cannot let the younger Jonas out.
+where the elder Jonas\ :sub:`13c` explains who he really is, and why
+he cannot let the younger Jonas out.
 
-When Jonas\ :sub:`11` later closes the tunnel using the machine, a
+When Jonas\ :sub:`13c` later closes the tunnel using the machine, a
 wormhole appears in the bunker, allowing Helge\ :sub:`1` to travel
 from 1953 to 1986, and for Jonas to travel to 2052 as Jonas\ :sub:`5`.
 
@@ -264,8 +264,8 @@ believing this to be Jonas’ betrayal.
 In 2052, having finally stabilized the God particle, Claudia sends
 Jonas back to 2019.  He brings with him the broken time machine,
 intending for Tannhaus to repair it, and the book about time travel.
-His instructions are to close the passage and destroy the knot, and
-she implores him not to lose hope (although he will).
+His instructions are to close the tunnel and destroy the knot, and she
+implores him not to lose hope (although he will).
 
 
 Jonas\ :sub:`10c`
@@ -279,4 +279,94 @@ This is also when he gives away his father’s suicide note for the last
 time.  Younger Jonas will burn it.
 
 After the conversation at the graveyard with Jonas\ :sub:`1`, he goes
-through the tunnel to 1986.
+through the tunnel to 1986, becoming Jonas\ :sub:`11c`.
+
+
+Jonas\ :sub:`11c`
+-----------------
+
+On November 7, Jonas first meets the elder Tannhaus.  He spends
+several days in 1986, meeting Tannhaus on and off.  He eventually
+shows him the broken time machine, and although the master is at first
+reluctant to help, he shows him the new machine that he has been
+working on.
+
+
+Jonas\ :sub:`12c`
+-----------------
+
+At some point, Jonas travels back to 2019 to collect God particles
+from the barrels in the truck.  He then promptly returns to 1986.
+
+
+Jonas\ :sub:`13c`
+-----------------
+
+On November 12, Jonas takes the new machine with him to the tunnel,
+but not before stopping by the bunker to reveal his true identity to
+the younger Jonas\ :sub:`4` who is now trapped there.  He leaves him
+behind, knowing that a wormhole will soon let him travel to 2052.
+
+When he activates the machine in the tunnel, he also travels back to
+2019 in the process, becoming Jonas\ :sub:`14c`.  We next see him on
+June 21, 2020.
+
+
+Jonas\ :sub:`14c`
+-----------------
+
+On June 21, 2020, Jonas reveals himself and his true identity to his
+mother Hannah\ :sub:`1`.  He says that he tried to destroy the tunnel
+but only managed to close it.  The next day, he shows her the machine
+and brings her with him to 1987.
+
+
+Jonas\ :sub:`15c`
+-----------------
+
+On a brief time travel trip to 1987, Jonas shows Hannah the truth of
+her husband.  They come straight back.
+
+
+Jonas\ :sub:`16c`
+-----------------
+
+When Charlotte\ :sub:`2` comes to the Kahnwald house, Hannah and Jonas
+bring her up to speed.  A group now starts to form.  Charlotte takes
+them both to the bunker, where she and Peter have been collecting time
+travel evidence.  It’s revealed that Peter and Tronte have been acting
+on instructions of the elder Claudia, via the notebook.  Katharina
+refuses to join the team.
+
+Addressing the group, Jonas says that everything will happen the way
+it always have, but that there *is* a loophole.  He intends to stop
+Adam’s plans (but he hides the true identity of Adam).  He believes
+that the elder Claudia tried to do this, but instead became what she
+was trying to fight.  (In fact, Claudia has found the solution, and it
+is *Jonas* who is acting to perpetuate the cycle.)
+
+On June 25, Jonas goes to Martha’s room and puts the St. Christopher
+pendant on her bed.  He has been carrying it with him since she gave
+it to him in his youth.
+
+Awakening on June 26, Jonas finds that his mother has taken the
+machine and traveled somewhere (she is in 1954).  When Martha\
+:sub:`3` later comes to find Hannah, Jonas instead reveals himself to
+her.  When Katharina later barges in, Martha reveals the existence of
+their machine (that they got from Bartosz, via Noah).
+
+On the day of the apocalypse, Jonas pleads with Martha to go with him
+to safety, but Martha refuses, saying that they aren’t right together.
+Instead, Jonas forces her to the bunker and locks her in there.
+
+When Jonas returns to the Kahnwald house, he finds Katharina on her
+way out with his cave exploration tools, intending to go and find
+Mikkel.  She has left the machine behind, not knowing how to use it.
+When lights begin flickering, Jonas understands that his younger self
+has now opened the tunnel.
+
+After Katharina has left, the younger Noah\ :sub:`2` arrives, bringing
+a note from Martha.  Noah tasks him to take the machine to save the
+kids in the Nielsen house.  He does this, bringing young Magnus,
+Franziska and Bartosz with him to 1888, where he becomes Jonas\
+:sub:`17c`.
