@@ -21,6 +21,8 @@ project = 'Dark'
 copyright = '2020, Eivind Fonn'
 author = 'Eivind Fonn'
 
+master_doc = 'index'
+
 
 # -- General configuration ---------------------------------------------------
 
