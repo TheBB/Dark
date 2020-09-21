@@ -193,6 +193,7 @@ People
 - :ref:`egon`
 - :ref:`jonas`
 - :ref:`hannah`
+- :ref:`martha`
 - :ref:`silja`
 
 
@@ -210,4 +211,5 @@ People
    people/egon
    people/jonas
    people/hannah
+   people/martha
    people/silja
