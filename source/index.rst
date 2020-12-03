@@ -116,7 +116,7 @@ The artificial characters are:
 - Elisabeth and Franziska, who are the children of Charlotte.
 - :ref:`Jonas <jonas>`, who is the son of Mikkel.
 - :ref:`Silja <silja>`, who is the product of :ref:`Hannah <hannah>`’s time travel.
-- Agnes and Noah, who are the children of Silja.
+- Agnes and :ref:`noah`, who are the children of Silja.
 
 In particular, Martha, Jonas, the nameless man, Tronte, Ulrich, Mads,
 Magnus, Mikkel, Charlotte and Elisabeth are all descended from
@@ -194,6 +194,7 @@ People
 - :ref:`jonas`
 - :ref:`hannah`
 - :ref:`martha`
+- :ref:`noah`
 - :ref:`silja`
 
 
@@ -212,4 +213,5 @@ People
    people/jonas
    people/hannah
    people/martha
+   people/noah
    people/silja

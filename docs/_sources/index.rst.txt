@@ -116,7 +116,7 @@ The artificial characters are:
 - Elisabeth and Franziska, who are the children of Charlotte.
 - :ref:`Jonas <jonas>`, who is the son of Mikkel.
 - :ref:`Silja <silja>`, who is the product of :ref:`Hannah <hannah>`’s time travel.
-- Agnes and Noah, who are the children of Silja.
+- Agnes and :ref:`noah`, who are the children of Silja.
 
 In particular, Martha, Jonas, the nameless man, Tronte, Ulrich, Mads,
 Magnus, Mikkel, Charlotte and Elisabeth are all descended from
@@ -175,16 +175,16 @@ characters frequently lie and manipulate each other.
 To distinguish different versions of each character or object from
 each other, we will give them a subscript number that increases by one
 each time they travel through time (or across worlds), so that, for
-example, when Jonas is born he is Jonas\ :sub:`1`, and after his first
-time travel he becomes Jonas\ :sub:`2`.  Characters from world B will
-be indicated as such, for example Martha\ :sub:`b` or Martha\
-:sub:`2b` after her first travel.  Since we spend most of our time in
-world A, following the characters of that world, I will generally not
-indicate them as such.  So Jonas is just Jonas, not Jonas\ :sub:`a`.
+example, when Jonas is born he is Jonas-1, and after his first time
+travel he becomes Jonas-2.  Characters from world B will be indicated
+as such, for example Martha-B or Martha-2B after her first travel.
+Since we spend most of our time in world A, following the characters
+of that world, I will generally not indicate them as such.  So Jonas
+is just Jonas, not Jonas-A.
 
 For characters that exist in different versions at the same time I
-will be using subscripts c, d and so on.  There are not too many of
-these, but when it happens it’s important to keep track of.
+will be using subscripts letters C, D and so on.  In particular, Eva
+and Adam are the same persons as Martha-C and Jonas-C, respectively.
 
 
 People
@@ -194,6 +194,7 @@ People
 - :ref:`jonas`
 - :ref:`hannah`
 - :ref:`martha`
+- :ref:`noah`
 - :ref:`silja`
 
 
@@ -212,4 +213,5 @@ People
    people/jonas
    people/hannah
    people/martha
+   people/noah
    people/silja

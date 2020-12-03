@@ -33,14 +33,14 @@ Martha-E is intercepted by Jonas-9E before even being sent to world A.
 Together they go to world Z where they successfully end the cycle.
 
 
-.. _marthb:
+.. _marthab:
 
 Martha-B
 --------
 
-The chronology of the character Martha\ :sub:`b` constitutes
-everything happening to Martha from world B from the beginning of the
-story up until the apocalypse in world A.
+The chronology of the character Martha-B constitutes everything
+happening to Martha from world B from the beginning of the story up
+until the apocalypse in world A.
 
 
 Martha-1B

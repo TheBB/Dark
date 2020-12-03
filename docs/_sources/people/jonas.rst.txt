@@ -122,7 +122,7 @@ Jonas-4
 
 After a brief and cryptic conversation with young Charlotte-2, Jonas
 makes his way to Mikkel-2’s bed in the hospital, but is abducted by
-Noah and Helge-3.  They take him to the bunker, where the elder
+Noah-11 and Helge-3.  They take him to the bunker, where the elder
 Jonas-13C explains who he really is, and why he cannot let the younger
 Jonas out.
 

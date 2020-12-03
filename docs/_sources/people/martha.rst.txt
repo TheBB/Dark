@@ -6,7 +6,8 @@ Martha Nielsen
 Martha Nielsen is the daughter of Ulrich and Katharina Nielsen.  In
 world A she serves as the primary love interest of :ref:`jonas`, with
 limited impact on the actual time travel plot until she dies in the
-apocalypse of that world.
+apocalypse of that world.  In world B she is the mother of the
+nameless man.
 
 The various versions of Martha in world B serve a key role in the
 perpetuation of the cycle, and the resolution thereof.  She is
@@ -32,14 +33,14 @@ Martha-E is intercepted by Jonas-9E before even being sent to world A.
 Together they go to world Z where they successfully end the cycle.
 
 
-.. _marthb:
+.. _marthab:
 
 Martha-B
 --------
 
-The chronology of the character Martha\ :sub:`b` constitutes
-everything happening to Martha from world B from the beginning of the
-story up until the apocalypse in world A.
+The chronology of the character Martha-B constitutes everything
+happening to Martha from world B from the beginning of the story up
+until the apocalypse in world A.
 
 
 Martha-1B
