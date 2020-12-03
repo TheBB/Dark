@@ -1,0 +1,19 @@
+dl.footnote {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    background: #f8f8f8;
+}
+
+dl.footnote dd {
+    border-radius: 4px;
+    padding: 15px 20px;
+    margin-left: 0;
+    margin-bottom: 20px;
+    letter-spacing: .5px;
+}
+
+dl.footnote dd p {
+    display: inline;
+    vertical-align: middle;
+    font-size: .75rem;
+}

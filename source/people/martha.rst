@@ -6,66 +6,76 @@ Martha Nielsen
 Martha Nielsen is the daughter of Ulrich and Katharina Nielsen.  In
 world A she serves as the primary love interest of :ref:`jonas`, with
 limited impact on the actual time travel plot until she dies in the
-apocalypse of that world.
+apocalypse of that world.  In world B she is the mother of the
+nameless man.
 
 The various versions of Martha in world B serve a key role in the
 perpetuation of the cycle, and the resolution thereof.  She is
-launched on her path in November of 2019 by the arrival of Jonas\
-:sub:`9d` from world A.  She sleeps with him and thereby conceives the
-nameless man.  After Jonas is shot dead by her elder self, she teams
-up with Bartosz\ :sub:`b` to try to stop the apocalypse, at which
-point her chronology splits into three different lines.
+launched on her path in November of 2019 by the arrival of Jonas-9D
+from world A.  She sleeps with him and thereby conceives the nameless
+man.  After Jonas is shot dead by her elder self, she teams up with
+Bartosz-B to try to stop the apocalypse, at which point her chronology
+splits into three different lines.
 
-Martha\ :sub:`c` is sent to world A to rescue Jonas from the
+Martha-C is sent to world A to rescue Jonas from the
 apocalypse, but is thereafter interrupted by Bartosz\ :sub:`b`, and
 they travel back to the Erit Lux headquarters.  She is then
 manipulated into the role of Eva by her elder self in order to save
 the life of her child.
 
-Martha\ :sub:`d` is also sent to world A to rescue Jonas, but is *not*
+Martha-D is also sent to world A to rescue Jonas, but is *not*
 interrupted by Bartosz.  She then travels to 1888 in world A to give
-the stranded Jonas\ :sub:`17c` the God particles he needs to build his
+the stranded Jonas-17C the God particles he needs to build his
 time travel device.  After that she travels to 2053, where she is
 taken and eventually killed by Sic Mundus.
 
-Martha\ :sub:`e` is intercepted by Jonas\ :sub:`9e` before even being
-sent to world A.  Together they go to world Z where they successfully
-end the cycle.
+Martha-E is intercepted by Jonas-9E before even being sent to world A.
+Together they go to world Z where they successfully end the cycle.
 
 
-Martha\ :sub:`1b`
------------------
+.. _marthb:
 
-We first see Martha\ :sub:`1b` as she awakes on November 4, 2019 in
+Martha-B
+--------
+
+The chronology of the character Martha\ :sub:`b` constitutes
+everything happening to Martha from world B from the beginning of the
+story up until the apocalypse in world A.
+
+
+Martha-1B
+^^^^^^^^^
+
+We first see Martha-1B as she awakes on November 4, 2019 in
 the Kahnwald house of world B.  At school that day, she is approached
-by Jonas\ :sub:`9d`, who has just been rescued from the apocalypse in
+by Jonas-9D, who has just been rescued from the apocalypse in
 world A by her future self, but she doesn’t recognize him.
 
 Later, under the bridge, Martha is again approached by Jonas before he
-is chased away by her friends Magnus\ :sub:`1b`, Bartosz\ :sub:`1b`,
-Franziska\ :sub:`1b` and Killian\ :sub:`1b`.  In the forest they get
+is chased away by her friends Magnus-1B, Bartosz-1B,
+Franziska-1B and Killian-1B.  In the forest they get
 scared and run away to the bunker where a wormhole develops.  The dead
 body of Mads drops.
 
 The next day, Jonas finally gains her attention by listing events from
 her life that he couldn’t possibly know.  Intrigued, Martha follows
-him through the tunnel to 2052, as Martha\ :sub:`2b`.
+him through the tunnel to 2052, as Martha-2B.
 
 
-Martha\ :sub:`2b`
------------------
+Martha-2B
+^^^^^^^^^
 
 In post-apocalyptic Winden version B, Martha and Jonas are instructed
-by middle-aged Martha\ :sub:`b` that they must prevent the opening of
+by middle-aged Martha-B that they must prevent the opening of
 the barrels to avoid the apocalypse.  They then return to 2019,
-becoming Martha\ :sub:`3b`.
+becoming Martha-3B.
 
 
-Martha\ :sub:`3b`
------------------
+Martha-3B
+^^^^^^^^^
 
-On the night of November 6, Martha\ :sub:`3b` sleeps with Jonas\
-:sub:`11d`.  She becomes pregnant with the nameless man.
+On the night of November 6, Martha-3B sleeps with Jonas-11D.  She
+becomes pregnant with the nameless man.
 
 The next day, which is the day before the apocalypse, Martha and Jonas
 break into the power plant.  When crossing the fence, Martha receives
@@ -75,41 +85,123 @@ then realises he is not actually saving anyone, merely perpetuating
 the cycle.
 
 Together they go to the Erit Lux headquarters to confront Eva.  In
-walks Martha\ :sub:`6d` who shoots and kills Jonas.  Before he dies,
-he gives her his St. Christopher pendant. Devastated, Martha\
-:sub:`3b` makes her way out and recruits the help of Bartosz\
-:sub:`1b` to try to prevent the apocalypse.  However before that
-happens, they are interrupted by middle-aged Magnus and Franziska from
-world B.  They have an orb that they give her.  At this point,
-Martha’s timeline splits in three.
-
-In the first two cases she is sent to world A, at the time of the
-apocalypse, having been told that Jonas can still be saved (which he
-can… sort of).
-
-- Once there, in one case, she is then stopped by Bartosz\ :sub:`b`
-  who tells her that Jonas (in the form of Adam) does not truly intend
-  to prevent the apocalypse.  They travel back to the Erit Lux
-  headquarters in the far future of world B, Martha becoming Martha\
-  :sub:`4c`.  It is this timeline that creates the persona of Eva
-  (future Martha) and Adam (future Jonas).
-
-- In the other case, Martha is not stopped by Bartosz and successfully
-  rescues Jonas, bringing him to world B as Jonas\ :sub:`9d`.  This is
-  the same Jonas that tried getting her attention only a few days
-  earlier.  She then travels to world A in 1888 as Martha\
-  :sub:`4d`. Although neither Jonas nor Martha live long in this
-  timeline, they both set in motion key events for the perpetuation
-  the cycle in each other’s worlds.
-
-- In the third case, Martha is prevented from even traveling to world
-  A in the first place as Jonas\ :sub:`9e` rugby-tackles her.  This
-  Martha\ :sub:`4e` goes on to help end the cycle.
+walks Martha-4C who shoots and kills Jonas.  Before he dies, he gives
+her his St. Christopher pendant. Devastated, Martha-3B makes her way
+out and recruits the help of Bartosz-1B to try to prevent the
+apocalypse.  However before that happens, they are interrupted by
+middle-aged Magnus and Franziska from world B.  They have an orb that
+they give her.  At this point, Martha’s timeline splits in three:
+:ref:`marthac` (who becomes Eva), :ref:`marthad` and :ref:`marthae`.
 
 
+.. _marthac:
 
-Martha\ :sub:`4d`
------------------
+Martha-C
+--------
 
-Having successfully saved Jonas and brought him to world B, Martha
-then travels to September 21, 1888 in world A.
+Martha-C is the version of Martha that eventually becomes the Eva
+persona, mirroring that of Jonas-C, who becomes Adam.
+
+Like her alternate self Martha-D, Martha-C is sent by the middle-aged
+Magnus and Franziska to the apocalypse of world A to save the younger
+Jonas.  Before she is able to do so, Martha-D is interrupted by
+Bartosz-B, who is acting on orders of her elder self (Eva).  She is
+spirited away from the apocalypse to the Erit Lux headquarters
+of 2052.  There, she is taken under the protective wings of her elder
+selves and indoctrinated into the Eva persona.
+
+
+Martha-4C
+^^^^^^^^^
+
+Upon arriving in the Erit Lux headquarters of 2052, the elder Martha
+(as Eva) gives her a second scar, identifying her permanently as the
+Eva personality.  She then pens the letter to Jonas, which the
+middle-aged Martha-C takes to Jonas in the 1890s of world A.  The
+letter will eventually end up in the hands of middle-aged Jonas-16C
+during the apocalypse, and is intended to ensure that this Jonas
+chooses to save Bartosz, Magnus and Franziska at the time of the
+apocalypse, setting him on the path to becoming Adam.
+
+Later she travels to 2019 as Martha-5C.
+
+
+Martha-5C
+^^^^^^^^^
+
+After arriving at the Erit Lux headquarters in 2019, Martha Later she
+shoots and kills Jonas-11D in front of her younger Martha-3B self.
+She then takes shelter from the impending apocalypse and makes her
+life in post-apocalyptic world B.  Shortly thereafter we may presume
+that the nameless man is born.  We see her next in the far future as
+Martha-2B and Jonas comes to visit.
+
+Slightly later, she has made her way to the future headquarters of
+Erit Lux, where she takes the letter her younger self Martha-4C and
+travels to 1888 of world A as Martha-6C.
+
+
+Martha-6C
+^^^^^^^^^
+
+Martha leaves the letter on Jonas' nightstand and travels back to
+world A as Martha-7C.
+
+
+Martha-7C
+^^^^^^^^^
+
+It's unclear exactly what she does next and in what order, but as
+Martha ages and begins to fully inhabit the persona of Eva, she takes
+control of Erit Lux and their machinations.  She orchestrates the
+events needed to set her younger self on the path of Eva, and various
+things needed to perpetuate the cycle.
+
+
+.. _marthad:
+
+Martha-D
+--------
+
+Martha-D is the version of Martha that successfully saves the younger
+Jonas-D from the apocalypse of world A, having not been interrupted by
+Bartosz-B.  She then brings him to world B where he does what is
+necessary to set her slightly younger self on her path.  After that,
+she travels to the 1888 of world A to bring the nascent Sic Mundus the
+material they need to begin working on time travel.  She then travels
+to the far future of world B where she is murdered, along with her
+unborn child.
+
+
+Martha-4D
+^^^^^^^^^
+
+Having successfully saved Jonas-9D and brought him to world B, Martha
+then travels to September 21, 1888 in world A.  There, she finds the
+elder Jonas-17C, who does not remember her.  None of them understand
+why that is.  Jonas has a letter that he believes was written by her,
+but she doesn't understand that either (it was written by another
+version of herself).
+
+Two days after arriving in this timeline, Martha gives Jonas a capsule
+of God particles from her orb, lying to him that this is her last
+remaining fuel.  Later she travels from 1888 to 2053 as Martha-5D.
+
+
+Martha-5D
+^^^^^^^^^
+
+Upon arriving in 2053, as instructed by Magnus and Franziska, she
+requests from the elder Jonas-19C, who has now fully become Adam,
+information about where the origin of the loop is and how to destroy
+it.  Jonas has now convinced himself that the origin is her unborn
+child, so he has Silja arrest her.  Later she is forced to undress so
+that Silja can dress appropriately as a woman of the 19th century, as
+she is sent back to give birth to Agnes and Noah.  Martha is then
+forced into the swirling vortex of God particles and killed.
+
+
+.. _marthae:
+
+Martha-E
+--------

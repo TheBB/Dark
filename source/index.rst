@@ -126,7 +126,7 @@ daughter of Hannah and Egon, who are both also organic.  In this case
 the same would apply to her children: Noah and Agnes, because their
 father Bartosz is also organic.  However it seems most convenient to
 classify Silja, Noah and Agnes as artificial characters because time
-travel was necessary for Silja’s parents to meet. [#zomg]_
+travel was necessary for Silja’s parents to meet. [#adults]_
 
 Hannah, Egon, Bartosz, Jana and Peter are all organic characters who
 are parents of artificial children.
@@ -175,16 +175,16 @@ characters frequently lie and manipulate each other.
 To distinguish different versions of each character or object from
 each other, we will give them a subscript number that increases by one
 each time they travel through time (or across worlds), so that, for
-example, when Jonas is born he is Jonas\ :sub:`1`, and after his first
-time travel he becomes Jonas\ :sub:`2`.  Characters from world B will
-be indicated as such, for example Martha\ :sub:`b` or Martha\
-:sub:`2b` after her first travel.  Since we spend most of our time in
-world A, following the characters of that world, I will generally not
-indicate them as such.  So Jonas is just Jonas, not Jonas\ :sub:`a`.
+example, when Jonas is born he is Jonas-1, and after his first time
+travel he becomes Jonas-2.  Characters from world B will be indicated
+as such, for example Martha-B or Martha-2B after her first travel.
+Since we spend most of our time in world A, following the characters
+of that world, I will generally not indicate them as such.  So Jonas
+is just Jonas, not Jonas-A.
 
 For characters that exist in different versions at the same time I
-will be using subscripts c, d and so on.  There are not too many of
-these, but when it happens it’s important to keep track of.
+will be using subscripts letters C, D and so on.  In particular, Eva
+and Adam are the same persons as Martha-C and Jonas-C, respectively.
 
 
 People
@@ -197,7 +197,7 @@ People
 - :ref:`silja`
 
 
-.. [#zomg] As adults, at any rate.
+.. [#adults] As adults, at any rate.
 
 
 .. _Github: https://github.com/TheBB/Dark
